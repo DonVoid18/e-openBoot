@@ -1,0 +1,10 @@
+let nombre = "Patrick";
+let apellido = "Rios Nolasco";
+let estudiante = "Estudiante" + " " + nombre + " " + apellido;
+let estudianteMayus = estudiante.toUpperCase();
+let estudianteMinus = estudiante.toLowerCase();
+let estudianteSize = estudiante.length;
+let primeraNombre = nombre.charAt(0);
+let ultimaApellido = apellido.charAt(apellido.length - 1);
+let eliminaEspacio = estudiante.replace(/ /g, "");
+let includeNombre = estudiante.includes(nombre);
