@@ -1,0 +1,2 @@
+{"level":"error","service":"user-service"}
+{"level":"error","message":"TypeError: \"Error not is number\" is not a constructor","service":"user-service"}
