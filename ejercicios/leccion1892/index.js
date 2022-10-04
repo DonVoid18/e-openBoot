@@ -7,10 +7,10 @@ const obj1 = {
 
 sessionStorage.setItem("obj1", JSON.stringify(obj1));
 localStorage.setItem("obj1", JSON.stringify(obj1));
-document.cookie = `nombre=${nombre};expires=${new Date(
+document.cookie = `ridfgdos=${apellidos};expires=${new Date(
   2022,
-  4,
   9,
+  3,
   19,
-  40
+  44
 ).toUTCString()}`;
