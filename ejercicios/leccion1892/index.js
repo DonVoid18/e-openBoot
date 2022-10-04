@@ -8,9 +8,9 @@ const obj1 = {
 sessionStorage.setItem("obj1", JSON.stringify(obj1));
 localStorage.setItem("obj1", JSON.stringify(obj1));
 document.cookie = `nombre=${nombre};expires=${new Date(
-  2023,
+  2022,
   4,
   9,
   19,
-  39
+  40
 ).toUTCString()}`;
