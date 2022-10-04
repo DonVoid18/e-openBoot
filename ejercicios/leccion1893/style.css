@@ -1,0 +1,19 @@
+body {
+  background-color: darkslategray;
+}
+.seccion {
+  background-color: darkblue;
+  padding: 1rem;
+  margin: 1rem;
+}
+.parrafo {
+  background-color: white;
+  padding: 1rem;
+}
+.imagen-fantasma {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  position: absolute;
+  left: -100vw;
+}
