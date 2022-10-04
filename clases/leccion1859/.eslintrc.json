@@ -1,0 +1,19 @@
+{
+    "env": {
+        "commonjs": true,
+        "es2021": true,
+        "node": true
+    },
+    "overrides": [],
+    "parserOptions": {},
+    "rules": {
+        "indent": [
+            "error",
+            4
+        ],
+        "quotes": [
+            "warn",
+            "double"
+        ]
+    }
+}
